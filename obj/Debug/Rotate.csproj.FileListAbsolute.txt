@@ -1,0 +1,8 @@
+C:\Users\AkashVikas\source\repos\Rotate\Rotate\bin\Debug\Rotate.exe.config
+C:\Users\AkashVikas\source\repos\Rotate\Rotate\bin\Debug\Rotate.exe
+C:\Users\AkashVikas\source\repos\Rotate\Rotate\bin\Debug\Rotate.pdb
+C:\Users\AkashVikas\source\repos\Rotate\Rotate\obj\Debug\Rotate.csproj.AssemblyReference.cache
+C:\Users\AkashVikas\source\repos\Rotate\Rotate\obj\Debug\Rotate.csproj.SuggestedBindingRedirects.cache
+C:\Users\AkashVikas\source\repos\Rotate\Rotate\obj\Debug\Rotate.csproj.CoreCompileInputs.cache
+C:\Users\AkashVikas\source\repos\Rotate\Rotate\obj\Debug\Rotate.exe
+C:\Users\AkashVikas\source\repos\Rotate\Rotate\obj\Debug\Rotate.pdb
